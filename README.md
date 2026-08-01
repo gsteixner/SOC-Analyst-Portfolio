@@ -81,7 +81,7 @@ Each investigation follows a consistent incident response methodology:
 - Improve Windows Event Log and Sysmon analysis
 - Develop PowerShell and Python automation skills
 - Build a strong portfolio of real-world investigation write-ups
-Thank you for visiting my portfolio!
+- Thank you for visiting my portfolio!
 
 - View my BTLO investigations:
 [BTLO Labs](./BTLO)
