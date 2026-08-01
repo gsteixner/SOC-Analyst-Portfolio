@@ -78,6 +78,9 @@ Each investigation follows a consistent incident response methodology:
 
 - Complete Blue Team Labs Online (BTLO) investigations
 - Expand SIEM analysis skills using Splunk and Microsoft Sentinel
+
+- View my BTLO investigations:
+[BTLO Labs](./BTLO)
 - Improve Windows Event Log and Sysmon analysis
 - Develop PowerShell and Python automation skills
 - Build a strong portfolio of real-world investigation write-ups
